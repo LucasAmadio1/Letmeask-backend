@@ -15,6 +15,13 @@
       "when": 1754227817220,
       "tag": "0001_even_goblin_queen",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1754534053502,
+      "tag": "0002_puzzling_nehzno",
+      "breakpoints": true
     }
   ]
 }
